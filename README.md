@@ -36,9 +36,11 @@
 + [Чек-лист для тестирование в Android Studio](https://docs.google.com/spreadsheets/d/1W_7B5HHDxBhKAE1BsacrdNRpMW-t6ZqsODqqlRGMDkU/edit?usp=sharing)
 + [Баг репорты](https://docs.google.com/document/d/1htQKtFAlv2mJPRrZO5gZQTOo8-WP-zF4SjuMuioRj8s/edit?usp=sharing)
   
-![](https://skills-s3-prod.s3.eu-central-1.amazonaws.com/skypro/image/png/2022/11/04/15606620_2022/11/04%2010:33:336364ea7dd89ce1.64700380%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D0%B4%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F.png)
+<a href="https://ibb.co/3dc29pm"><img src="https://i.ibb.co/wg4VFSh/04-10-33-336364ea7dd89ce1-64700380.png" alt="04-10-33-336364ea7dd89ce1-64700380" border="0"></a>
+
 
 ### Тест-план и отчет по тестированию
+<a href="https://ibb.co/q9gRYVb"><img src="https://i.ibb.co/hHdKFwp/2022-11-13-15-08-23.png" alt="2022-11-13-15-08-23" border="0"></a>
 + [План тестирования, тестироние требований, декомпозиция](https://docs.google.com/document/d/1nWBeF8Py_3hDBzP68GPOdbHYmaDZ8xj1Xof-iefSq34/edit?usp=sharing)
 + [Отчет по тестированию](https://docs.google.com/document/d/1wEqdaXExdXCFXfeLMNcYHjwnOjjaxzi5XslICKapFQA/edit?usp=sharing)
   
