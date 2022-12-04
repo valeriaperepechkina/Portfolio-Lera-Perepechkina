@@ -41,7 +41,7 @@
 
 ### Тест-план и отчет по тестированию
 <a href="https://ibb.co/q9gRYVb"><img src="https://i.ibb.co/hHdKFwp/2022-11-13-15-08-23.png" alt="2022-11-13-15-08-23" border="0"></a>
-+ [План тестирования, тестироние требований, декомпозиция](https://docs.google.com/document/d/1nWBeF8Py_3hDBzP68GPOdbHYmaDZ8xj1Xof-iefSq34/edit?usp=sharing)
++ [План тестирования, анализ требований, декомпозиция](https://docs.google.com/document/d/1nWBeF8Py_3hDBzP68GPOdbHYmaDZ8xj1Xof-iefSq34/edit?usp=sharing)
 + [Отчет по тестированию](https://docs.google.com/document/d/1wEqdaXExdXCFXfeLMNcYHjwnOjjaxzi5XslICKapFQA/edit?usp=sharing)
   
 ---
